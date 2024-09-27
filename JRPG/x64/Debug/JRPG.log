@@ -1,0 +1,17 @@
+﻿  Juego.cpp
+C:\Users\Pablo\source\repos\JRPG\JRPG\Juego.cpp(7,8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Pablo\source\repos\JRPG\JRPG\Juego.cpp(185,22): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Pablo\source\repos\JRPG\JRPG\Juego.cpp(188,22): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Pablo\source\repos\JRPG\JRPG\Juego.cpp(193,23): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Pablo\source\repos\JRPG\JRPG\Juego.cpp(271,24): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Pablo\source\repos\JRPG\JRPG\Juego.cpp(312,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Pablo\source\repos\JRPG\JRPG\Juego.cpp(315,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Pablo\source\repos\JRPG\JRPG\Juego.cpp(321,23): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Pablo\source\repos\JRPG\JRPG\Juego.cpp(324,24): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Pablo\source\repos\JRPG\JRPG\Juego.cpp(333,21): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Pablo\source\repos\JRPG\JRPG\Juego.cpp(336,21): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Pablo\source\repos\JRPG\JRPG\Juego.cpp(365,24): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Source.cpp
+  Generating Code...
+C:\Users\Pablo\source\repos\JRPG\JRPG\Juego.cpp(495): warning C4715: 'Juego::SacarInfo': not all control paths return a value
+  JRPG.vcxproj -> C:\Users\Pablo\source\repos\JRPG\x64\Debug\JRPG.exe
